@@ -1,0 +1,6 @@
+data/train_first/*
+data/feat_gen/*
+data/inverse/*
+data/*.txt
+catboost_info
+submit
