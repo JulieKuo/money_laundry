@@ -1,5 +1,7 @@
 model
 data/*
 
-!data/inverse/all*
+!data/inverse/all_imbalance.csv
+!data/inverse/all_process.csv
+!data/inverse/all.csv
 !data/description
