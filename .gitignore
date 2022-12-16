@@ -1,6 +1,5 @@
-data/train_first/*
-data/feat_gen/*
-data/inverse/*
-data/description/*.txt
-catboost_info
-submit
+model
+data/*
+
+!data/inverse/all*
+!data/description

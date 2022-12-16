@@ -1,0 +1,62 @@
+{   
+    "0": {
+        "cust_id": "category", 
+        "date": "datetime", 
+        "country": "category", 
+        "cur_type": "category", 
+        "amt": "int", 
+        "month_sin": "float", 
+        "month_cos": "float", 
+        "day_sin": "float", 
+        "day_cos": "float"
+        },
+    "1": {
+        "cust_id": "category", 
+        "debit_credit": "category", 
+        "date": "datetime", 
+        "tx_type": "category", 
+        "tx_amt": "int", 
+        "exchg_rate": "float", 
+        "info_asset_code": "category", 
+        "fiscTxId": "category", 
+        "txbranch": "category", 
+        "cross_bank": "category", 
+        "ATM": "category",  
+        "month_sin": "float", 
+        "month_cos": "float", 
+        "day_sin": "float", 
+        "day_cos": "float"
+        },
+    "2": {
+        "cust_id": "category",
+        "date": "datetime", 
+        "trans_no": "category", 
+        "trade_amount_usd": "int",
+        "month_sin": "float", 
+        "month_cos": "float", 
+        "day_sin": "float", 
+        "day_cos": "float"
+        },
+    "3": {
+        "alert_key": "id", 
+        "date": "datetime", 
+        "sar_flag": "category",
+        "cust_id": "category", 
+        "risk_rank": "category", 
+        "occupation_code": "category", 
+        "total_asset": "int", 
+        "AGE": "category", 
+        "lupay": "int", 
+        "cycam": "int", 
+        "usgam": "int", 
+        "clamt": "int", 
+        "csamt": "int", 
+        "inamt": "int", 
+        "cucsm": "int", 
+        "cucah": "int",
+        "month_sin": "float", 
+        "month_cos": "float", 
+        "day_sin": "float", 
+        "day_cos": "float"
+    }
+}
