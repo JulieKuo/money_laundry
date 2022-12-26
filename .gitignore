@@ -1,11 +1,1 @@
-model
-data/feat_gen
-data/image
-data/submit
-data/train_first
 
-data/inverse/*
-
-!data/inverse/all.csv
-!data/inverse/all_process.csv
-!data/inverse/all_imbalance.csv
