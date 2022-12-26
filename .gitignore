@@ -1,0 +1,8 @@
+data/description/*
+!data/description/訓練資料欄位說明.xlsx
+
+data/inverse/*
+data/report/*
+data/submit/*
+data/train_first
+data/train_private
